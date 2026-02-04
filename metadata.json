@@ -1,0 +1,5 @@
+{
+  "name": "St. Paul's Sowtuomian League",
+  "description": "A comprehensive league management system for St Paul's Catholic Seminary, featuring separate tables for Team A and Team B, match recording, and AI-powered performance analysis.",
+  "requestFramePermissions": []
+}
